@@ -1,6 +1,8 @@
 # Breviary
 the complete offline Breviary in English (North America)
 
+This App will never have ads and will always remain subscription free.
+
 Privacy Policy: No data is collected except for emails you send for feeback
 
 For Apple and Google:
