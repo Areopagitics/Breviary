@@ -1,3 +1,5 @@
+
+[<img width="130px" src="https://raw.githubusercontent.com/Areopagitics/Breviary/master/icons/Icon-512.png" />](https://breviary.app/)
 # Breviary
 the complete offline Breviary in English (North America)
 
